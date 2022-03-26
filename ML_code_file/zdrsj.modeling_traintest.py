@@ -1,7 +1,7 @@
 # 필요 라이브러리 install
-! pip install xgboost
-! pip install optuna
-! pip install lightgbm
+'''pip install xgboost
+pip install optuna
+pip install lightgbm'''
 
 # 필요한 라이브러리 import
 import pandas as pd
@@ -160,10 +160,10 @@ print('RMSE : {:.3f}'.format(np.sqrt(mean_squared_error(test_y, final_lgb_pred))
 
 score = rmse_cv(final_lgb_model)
 
-# plt 한글 폰트 깨짐 설치
-!sudo apt-get install -y fonts-nanum
+# plt 한글 폰트 깨짐 설치 (코랩 해당)
+''' !sudo apt-get install -y fonts-nanum
 !sudo fc-cache -fv
-!rm ~/.cache/matplotlib -rf
+!rm ~/.cache/matplotlib -rf '''
 
 # 폰트 및 그래프 크기 설정
 import matplotlib.pyplot as plt
