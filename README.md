@@ -3,7 +3,7 @@
 ---
 ⚙️ Stack & Tool used
 ---
-- python
+- RMSE, xgboost, lightgbm, TimeSeriesSplit, pickle, python
 - visual studio code
 
 ---
