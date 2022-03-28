@@ -12,15 +12,15 @@
 
 🗂 ML_code_file : ML 작업 코딩 폴더
 
-ㄴ 🗳 ml_data.ipynb : 머신러닝 모델 작업 파일
+    ㄴ 🗳 ml_data.ipynb : 머신러닝 모델 작업 파일
 
 
-ㄴ 🗳 ZDRSJ_model.pkl
+    ㄴ 🗳 ZDRSJ_model.pkl
 
 
 🗂 data : 사용 데이터셋 폴더
 
-ㄴ 🗳 ml_data.csv : 머신러닝 모델에 사용을 위한 EDA 데이터셋
+    ㄴ 🗳 ml_data.csv : 머신러닝 모델에 사용을 위한 EDA 데이터셋
 
     
  ㄴ 🗂 python
