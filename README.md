@@ -1,7 +1,4 @@
 ## ML repository 안내
-### 🗂 폴더/파일 구분
-
-# DE
 
 ---
 ⚙️ Stack & Tool used
