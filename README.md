@@ -23,9 +23,8 @@
 ㄴ 🗳 ml_data.csv : 머신러닝 모델에 사용을 위한 EDA 데이터셋
 
     
- ㄴ 🗂 model
+ ㄴ 🗂 python
  
-    ㄴ 🗳 
    
 
  ---
