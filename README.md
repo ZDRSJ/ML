@@ -12,21 +12,21 @@
 
 🗂 ML_code_file : ML 작업 코딩 폴더
 
-    ㄴ 🗳 ml_data.ipynb : 머신러닝 모델 작업 파일
+    ㄴ 🗳 zdrsj_modeling_final.py : 머신러닝 모델 작업 파일
 
 
-    ㄴ 🗳 ZDRSJ_model.pkl
+    ㄴ 🗳 final_model.pkl : 학습된 모델 피클 파일
 
 
 🗂 data : 사용 데이터셋 폴더
 
-    ㄴ 🗳 ml_data.csv : 머신러닝 모델에 사용을 위한 EDA 데이터셋
+    ㄴ 🗳 ml_data_final.csv : 머신러닝 모델에 사용을 위한 EDA 데이터셋
 
     
  ㄴ 🗂 python
  
-   
-
+     ㄴ 🗳 bus_line_data.xlsx : 동에 있는 버스 노선 수 구하기 위한 데이터
+     
  ---
 
 ## 🤖 modeling(모델링)
