@@ -1,13 +1,32 @@
 ## ML repository 안내
-### 🗂 폴더/파일 구분
- - **data : 사용 데이터셋 폴더**
+
+---
+⚙️ Stack & Tool used
+---
+- RMSE, xgboost, lightgbm, TimeSeriesSplit, pickle, python
+- visual studio code
+
+---
+📂 Directory Structure
+---
+
+🗂 ML_code_file : ML 작업 코딩 폴더
+
+    ㄴ 🗳 zdrsj_modeling_final.py : 머신러닝 모델 작업 파일
+
+
+    ㄴ 🗳 final_model.pkl : 학습된 모델 피클 파일
+
+
+🗂 data : 사용 데이터셋 폴더
+
+    ㄴ 🗳 ml_data_final.csv : 머신러닝 모델에 사용을 위한 EDA 데이터셋
+
+    
+ ㄴ 🗂 python
  
-   - ml_data.csv : 머신러닝 모델에 사용을 위한 EDA 데이터셋
-
- - **ML_code_file : ML 작업 코딩 폴더**
-
-   - ml_data.ipynb : 머신러닝 모델 작업 파일
-   - ZDRSJ_model.pkl
+     ㄴ 🗳 bus_line_data.xlsx : 동에 있는 버스 노선 수 구하기 위한 데이터
+     
  ---
 
 ## 🤖 modeling(모델링)
